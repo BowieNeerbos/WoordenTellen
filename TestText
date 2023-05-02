@@ -1,0 +1,6 @@
+This is a text with a few words.
+Words like "a", "an" and "the" will appear more frequently than words like "onomatopoeia".
+The accompanying code is built to analyze texts and return the most frequent words.
+It has to differentiate between letters and symbols to find separate words.
+Normally4we'would[use!spaces\to*separate$words,>but&the#editor@must/also(be?able:to;read"words|with8other+separators.
+Fingers crossed!
